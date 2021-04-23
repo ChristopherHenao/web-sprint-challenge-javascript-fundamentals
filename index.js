@@ -15,8 +15,7 @@ function myFunction() {
 }
 myFunction();
 
-//🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: The child function (nestedFunction) can access the variable internal because the variable was defined in the parent function (myFunction). Information can be passed down but not up. The parent shares with the child, but the child cannot share with the parent. 
 
 
 
